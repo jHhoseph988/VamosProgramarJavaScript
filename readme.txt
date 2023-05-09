@@ -17,3 +17,8 @@ Vamos a programar en JavaScript
 4.git branch -M main
 5.git remote add origin https://github.com/jHhoseph988/VamosProgramarJavaScript.git
 6.git push -u origin main
+
+
+Explicacion archivo
+archivo comentarios.js se explica como comentar nuestro codigo
+archivovariables.js se explica como declarar variables
