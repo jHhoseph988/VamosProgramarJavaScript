@@ -1,3 +1,14 @@
+crear carpeta para java script, la abro en visual
+
+trminal: git hub desktop, crear un nuevo repositorio, iniciamos en proyecto en git
+
+--> git init 
+
+1.creamos un repositorio local --> vamosprogrmarjavascript
+2.inizializar proyecto en GIT --> git init
+3.Añadir el archivo readme --> git . add
+
+
 Vamos a programar en JavaScript
 
 1. paso git init
