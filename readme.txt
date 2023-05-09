@@ -19,6 +19,13 @@ Vamos a programar en JavaScript
 6.git push -u origin main
 
 
-Explicacion archivo
+Explicacion archivo:
 archivo comentarios.js se explica como comentar nuestro codigo
 archivovariables.js se explica como declarar variables
+
+VARIABLES 
+
+symbol-->  es un objeto incorporado cuyo constructor devuelve un symbol primitivo  
+bigint--> Los valores BigInt representan valores numéricos que son demasiado grandes para ser representados por el número primitivo 
+number --> Las variables numéricas almacenan números.
+object --> Un objeto es una colección de datos relacionados y/o funcionalidad
