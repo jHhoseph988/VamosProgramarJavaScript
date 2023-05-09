@@ -1,3 +1,6 @@
-//esto es un comentario
+//esto es un comentario de una sola linea
 
-//comentario dos
+/*esto es un
+comentario
+de varias 
+lineas*/
