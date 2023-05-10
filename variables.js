@@ -1,15 +1,24 @@
 var numero1; 
 var numero2= 9;
-cosole.log(a);
-console.log(b);
+console.log(numero1);
+console.log(numero2);
 
-var numero3 = 4;
-var numero4 = 6;
-cosole.log(a);
-console.log(b);
+var numero1 = 4;
+var numero2 = 6;
+console.log(numero1);
+console.log(numero2);
 
-var numero5 = 7;
-b = numero5;
+var numero1 = 7;
+numero2 = numero1;
+console.log(numero1);
+console.log(numero2);
 
-cosole.log(a);
-console.log(b);
+var numero1 = 10;
+var nombre = "onixweb";
+
+console.log(numero1);
+console.log(nombre);
+
+var miNombre = "Joseph Daniel Triana Buitrago"
+console.log(miNombre);
+
