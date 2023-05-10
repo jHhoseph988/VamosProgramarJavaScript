@@ -1,4 +1,3 @@
-/*
 
 var define = "josephtriana";
 console.log(define[6])
@@ -24,7 +23,7 @@ console.log(define[8])
 console.log(define[9])
 console.log(define[10])
 console.log(define[11])
-*/
+
 
 var nombrelargo = "enlavidacosechasloquesiembras";
 
